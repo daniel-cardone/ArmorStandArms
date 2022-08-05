@@ -1,0 +1,4 @@
+name: ArmorStandArms
+version: '${project.version}'
+main: us.bluescript.armorstandarms.ArmorStandArms
+api-version: 1.19
